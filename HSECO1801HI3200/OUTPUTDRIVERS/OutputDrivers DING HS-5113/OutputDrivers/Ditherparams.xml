@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<Root>
+	<ManufacturerList>
+		<Manufacturer Name="3M" 			ManufactureMAPXML="Am3MDes.xml"/>
+		<Manufacturer Name="AIC" 			ManufactureMAPXML="AmEpsonDes.xml"/>
+		<Manufacturer Name="AllWin" 			ManufactureMAPXML="AmAllWinDes.xml"/>
+		<Manufacturer Name="Astro"			ManufactureMAPXML="AmAstroDes.xml"/>
+		<Manufacturer Name="Azero"			ManufactureMAPXML="AmAzeroDes.xml"/>
+		<Manufacturer Name="Canon"			ManufactureXML="AmCanonDPDes.xml"/>
+		<Manufacturer Name="ChiTing"			ManufactureMAPXML="AmChiTingDes.xml"/>
+		<Manufacturer Name="CJET"			ManufactureMAPXML="AmCJETDes.xml"/>
+		<Manufacturer Name="Epson" 			ManufactureMAPXML="AmEpsonDes.xml"/>
+		<Manufacturer Name="Grapo" 			ManufactureMAPXML="AmGrapoDes.xml"/>
+		<Manufacturer Name="Hewlett-Packard"	ManufactureXML="AmHP_DPDes.XML"/>
+		<Manufacturer Name="HP"	ManufactureXML="AmHP_DPDes.XML"/>
+		<Manufacturer Name="Matan"			ManufactureMAPXML="AmMatanDes.xml"/>
+		<Manufacturer Name="Mimaki"			ManufactureMAPXML="AmMimakiDPDes.xml"/>
+		<Manufacturer Name="Mutoh" 			ManufactureMAPXML="AmMutohDes.xml"/>
+		<Manufacturer Name="Neolt" 			ManufactureMAPXML="AmNeoltDes.xml"/>
+		<Manufacturer Name="Roland" 			ManufactureMAPXML="AmRolandDes.xml"/>
+		<Manufacturer Name="Seiko Instruments" 	ManufactureXML="AmSeikoDPDes.xml"/>
+		<Manufacturer Name="DGI" 				ManufactureXML="AmDGIDes.xml"/>
+		<Manufacturer Name="YongLi" 		ManufactureXML="AmYongLiDes.xml"/>
+		<Manufacturer Name="Xerox" 			ManufactureMAPXML="AmMutohDes.xml"/>
+		<Manufacturer Name="SID Signs" 		ManufactureMAPXML="AmSIDSignsDPDes.xml"/>
+		<Manufacturer Name="ZhongYe" 		ManufactureMAPXML="AmZhongYeDes.xml"/>
+		<Manufacturer Name="Azon" 			ManufactureMAPXML="AmEpsonDes.xml"/>
+		<Manufacturer Name="Govivid" 		ManufactureMAPXML="AmEpsonDes.xml"/>
+	</ManufacturerList>
+	<PrinterHardware>
+		<Model ID="Default">
+			<Media ID="Default">
+				<PrintMode ID="Default">
+					<Resolution ID="Default">
+						<ColorMode ID="Default">
+							<DitherParams  ID="4">
+								<Level Value="4">
+									<Weight ColorInk="0" Level="0" Value="0.28"/>
+									<Weight ColorInk="0" Level="1" Value="0.56"/>
+									<Weight ColorInk="0" Level="2" Value="1.00"/>
+									<Weight ColorInk="1" Level="0" Value="0.28"/>
+									<Weight ColorInk="1" Level="1" Value="0.56"/>
+									<Weight ColorInk="1" Level="2" Value="1.00"/>
+									<Weight ColorInk="2" Level="0" Value="0.28"/>
+									<Weight ColorInk="2" Level="1" Value="0.56"/>
+									<Weight ColorInk="2" Level="2" Value="1.00"/>
+									<Weight ColorInk="3" Level="0" Value="0.28"/>
+									<Weight ColorInk="3" Level="1" Value="0.56"/>
+									<Weight ColorInk="3" Level="2" Value="1.00"/>
+								</Level>
+								<AntiClogLevel Value="1"/>
+  								<NoiseLevel Value="2.0"/>
+							</DitherParams>
+							<DitherParams  ID="2">
+								<Level Value="2">
+									<Weight ColorInk="0" Level="0" Value="1.0"/>
+									<Weight ColorInk="1" Level="0" Value="1.0"/>
+									<Weight ColorInk="2" Level="0" Value="1.0"/>
+									<Weight ColorInk="3" Level="0" Value="1.0"/>
+								</Level>
+								<AntiClogLevel Value="1"/>
+  								<NoiseLevel Value="2.0"/>
+							</DitherParams>
+						</ColorMode>
+    					</Resolution> 
+      			</PrintMode>
+			</Media> 
+		</Model> 
+	</PrinterHardware>
+</Root>
+
+						
+						
+
+
+

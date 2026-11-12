@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearizationCollection>
+	<InkType Type="Default">
+		<Linearization Name="0 – EcoSave (Strong)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=16 S=25 E=45" />
+		<Linearization Name="1 – EcoSave" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=16 S=25 E=85" />
+		<Linearization Name="2 – Medium" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=20 S=30 E=95" />
+		<Linearization Name="3 – Balanced (default)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=25 S=35 E=100" />
+		<Linearization Name="4 – High" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=7 H=30 S=40 E=100" />
+		<Linearization Name="5 – Maximum" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=15 H=35 S=45 E=100" />
+	</InkType>
+	<InkType Type="Eco-Solvent">
+		<Linearization Name="0 – EcoSave (Strong)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=16 S=25 E=45" />
+		<Linearization Name="1 – EcoSave" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=16 S=25 E=85" />
+		<Linearization Name="2 – Medium" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=20 S=30 E=95" />
+		<Linearization Name="3 – Balanced (default)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=25 S=35 E=100" />
+		<Linearization Name="4 – High" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=7 H=100 S=40 E=100" />
+		<Linearization Name="5 – Maximum" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=15 H=100 S=45 E=100" />
+	</InkType>
+	<InkType Type="Solvent">
+		<Linearization Name="0 – EcoSave (Strong)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=16 S=25 E=45" />
+		<Linearization Name="1 – EcoSave" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=16 S=25 E=85" />
+		<Linearization Name="2 – Medium" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=20 S=30 E=95" />
+		<Linearization Name="3 – Balanced (default)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=25 S=35 E=100" />
+		<Linearization Name="4 – High" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=7 H=100 S=40 E=100" />
+		<Linearization Name="5 – Maximum" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=15 H=100 S=45 E=100" />
+	</InkType>
+	<InkType Type="UV-curing">
+		<Linearization Name="1 – EcoSave" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=100 S=18 E=85" />
+		<Linearization Name="2 – Medium" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=100 S=25 E=95" />
+		<Linearization Name="3 – Balanced (default)" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="L=0 H=100 S=30 E=100" />
+		<Linearization Name="4 – High" MaxInkVolumeEnd="150" MaxInkVolumeStart="100" MaxSlope="77" MixType="L=15 H=100 S=35 E=100" />
+		<Linearization Name="5 – Higher" MaxInkVolumeEnd="150" MaxInkVolumeStart="100" MaxSlope="77" MixType="L=30 H=100 S=40 E=100" />
+		<Linearization Name="6 – Maximum" MaxInkVolumeEnd="150" MaxInkVolumeStart="100" MaxSlope="77" MixType="L=55 H=100 S=45 E=100" />
+	</InkType>
+	<InkType Type="Legacy">
+		<Linearization Name="Economy" MaxInkVolumeEnd="120" MaxInkVolumeStart="25" MaxSlope="90" MixType="Eco" />
+		<Linearization Name="Typical" MaxInkVolumeEnd="120" MaxInkVolumeStart="25" MaxSlope="90" MixType="Typical" />
+		<Linearization Name="Quality" MaxInkVolumeEnd="120" MaxInkVolumeStart="25" MaxSlope="90" MixType="Quality" />
+		<Linearization Name="Quality ECO" MaxInkVolumeEnd="120" MaxInkVolumeStart="25" MaxSlope="90" MixType="Eco+" />
+	</InkType>
+	<InkType Type="HP10000">
+		<Linearization Name="HP Scitex Quality Split" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="85" MixType="L=0 H=34 S=32 E=90" />
+		<Linearization Name="HP Scitex Standard Split" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="85" MixType="L=0 H=23 S=28 E=70" />
+		<Linearization Name="HP Scitex Eco Split" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="85" MixType="L=0 H=15 S=20 E=45" />
+	</InkType>
+	<InkType Type="Disabled">
+		<Linearization Name="n/a" MaxInkVolumeEnd="150" MaxInkVolumeStart="60" MaxSlope="77" MixType="Disabled" />
+	</InkType>
+</LinearizationCollection>

@@ -1,0 +1,1548 @@
+<?xml version="1.0"?>
+<root>
+	<!--no_support_characterization>30</no_support_characterization-->
+	<DeviceList>
+		<item>
+			<name>HP Z5200</name>
+			<OptionsDlg>
+				<item>
+					<title>HP Designjet Z5200 44</title>
+					<id>11</id>
+					<xPageMax>42</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>15</xPatchMM>
+					<yPatchMM>15</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>111</swatchType>
+					
+				</item>
+			</OptionsDlg>
+			<id>31</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>HP</PrinterMake>
+			<PrinterModel>DesignJet Z5200 44,DesignJet Z5200 24</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>HP Z6200</name>
+			<OptionsDlg>
+				<item>
+					<title>HP Designjet Z6200 42</title>
+					<id>12</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>15</xPatchMM>
+					<yPatchMM>15</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>111</swatchType>					
+				</item>
+				<item>
+					<title>HP Designjet Z6200 60</title>
+					<id>13</id>
+					<xPageMax>58</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>15</xPatchMM>
+					<yPatchMM>15</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>111</swatchType>					
+				</item>
+			</OptionsDlg>
+			<id>32</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>HP</PrinterMake>
+			<PrinterModel>DesignJet Z6200 42,DesignJet Z6200 60</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>HP L26500</name>
+			<OptionsDlg>
+				<item>
+					<title>HP DesignJet L26500 61</title>
+					<id>10</id>
+					<xPageMax>58</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>38</xPatchMM>
+					<yPatchMM>22</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>111</swatchType>	
+					<swatchName>HP_Z</swatchName>	
+					<swatchNameContinues>HP_Z_25500</swatchNameContinues>
+					<Offsets left="195" right="195" top="137" bottom="200" />
+					<Characterization>
+						<Offsets left="360" right="355" top="0" bottom="0" />
+						<swatchName>HP_Z</swatchName>	
+						<swatchType>HP_Z</swatchType>
+						<swatchNameContinues>HP_Z_25500_Characterization</swatchNameContinues>
+					</Characterization>
+				</item>
+			</OptionsDlg>
+			<id>36</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_L25500</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>HP</PrinterMake>
+			<PrinterModel>HP DesignJet L26500 61</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>HP L28500</name>
+			<OptionsDlg>
+				<item>
+					<title>HP DesignJet L28500</title>
+					<id>10</id>
+					<xPageMax>58</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>38</xPatchMM>
+					<yPatchMM>22</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>111</swatchType>	
+					<swatchName>HP_Z</swatchName>	
+					<swatchNameContinues>HP_Z_25500</swatchNameContinues>
+					<Offsets left="195" right="195" top="137" bottom="200" />
+					<Characterization>
+						<Offsets left="360" right="355" top="0" bottom="0" />
+						<swatchName>HP_Z</swatchName>
+						<swatchType>HP_Z</swatchType>							
+						<swatchNameContinues>HP_Z_25500_Characterization</swatchNameContinues>
+					</Characterization>
+				</item>
+			</OptionsDlg>
+			<id>38</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_L25500</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>HP</PrinterMake>
+			<PrinterModel>HP DesignJet L28500</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>Mutoh 1608</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<item>
+					<title>Mutoh 1608</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>20</xPatchMM>
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="28" right="30" top="10" bottom="10" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>33</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> 
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog>
+			<MeterName>hp</MeterName>
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow>
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1608HEU (Valuejet_Hybrid),VJ-1608HA,VJ-1608HJ,VJ-1608HS</PrinterModel>
+			
+			<Port>PortListIP</Port>
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>Mutoh 1324</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<item>				
+					<title>Mutoh 1324</title>
+					<id>14</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>20</xPatchMM>
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>202</swatchType>	
+					<!--Offsets left="0" right="105" top="10" bottom="10" comment="35" /-->
+					<!--Offsets left="0" right="110" top="10" bottom="10" comment="24" /--> 
+				    <!--Offsets left="10" right="120" top="10" bottom="10" comment="old" /--> 
+					<!--Offsets left="28" right="100" top="10" bottom="10" comment="old" /--> 
+					<Offsets left="28" right="100" top="10" bottom="10"/> 
+				</item>
+			</OptionsDlg>
+			<id>34</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> 
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog>
+			<MeterName>hp</MeterName>
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow>
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1324 (ValueJet),VJ-1324EU (ValueJet)</PrinterModel>
+			
+			<Port>PortListIP</Port>
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>Mutoh 1624</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<!--item>
+					<title>Mutoh 1608</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>20</xPatchMM>
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.393700787</xGap>
+					<yGap>0.393700787</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="10" right="30" top="10" bottom="10" />
+				</item>
+				<item>
+					<title>Mutoh 1324</title>
+					<id>14</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>20</xPatchMM>
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.393700787</xGap>
+					<yGap>0.393700787</yGap>
+					<swatchType>202</swatchType>	
+				    <Offsets left="10" right="120" top="10" bottom="10" />
+				</item-->
+				<item>
+					<title>Mutoh 1624</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>20</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="28" right="30" top="10" bottom="10" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>35</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1624 (ValueJet),VJ-1624EU (ValueJet)</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>Mutoh 1638</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<item>
+					<title>Mutoh 1638</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>20</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="28" right="30" top="10" bottom="10" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>37</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		
+		
+		<item>
+			<name>Barbieri Spectro Swing (Reflective Mode)</name>
+			<id>39</id><!--39-->
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListFull</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<OptionsDlg>
+				<!--2mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>203</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>203</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+			</OptionsDlg>
+		</item>
+		<item>
+			<name>Barbieri Spectro Swing (Transmissive Mode)</name>
+			<id>139</id><!-- transmission mode enable if + 100 -->
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListFull</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+	
+			<OptionsDlg>
+				<!--2mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>203</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>203</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+			</OptionsDlg>
+		</item>
+		
+		<item>
+			<name>Barbieri Spectropad</name>
+			<id>40</id>
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>true</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>false</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListIP,PortListUSB,PortListCOM</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<OptionsDlg>
+				<!--12mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>12.0</xPatchMM>
+					<yPatchMM>12.0</yPatchMM>
+					<xGapMM>0</xGapMM>
+					<yGapMM>0</yGapMM>
+					<swatchType>204</swatchType>	
+					<Offsets left="80" right="80" top="30" bottom="170" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<xPageMaxMM>380</xPageMaxMM>
+					<yPageMaxMM>600</yPageMaxMM>
+				</item>
+			</OptionsDlg>
+		</item>
+		
+		
+		<item>
+			<name>X-Rite i1Pro2</name>
+			<id>41</id>
+			<DeviceType>densitometer,colorimeter,spectral,handheld_colorimeter</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_GRETAG_I1</FeatureName>
+			<TypeOptionsDialog>CC_METER_GRETAG_I1</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_GRETAG_I1</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>true</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>false</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>true</IsPatchRemeasureSupported>
+			<IsSupportCalibration>true</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListUSB</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+		
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,-1,-1</observer><!--OBSERVER_TWO_DEGREE, -1, -1-->
+				<densitystatus>1,4,0,5,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_T,ST_DEN_Filter_A,ST_DEN_Filter_I,ST_DEN_DIN,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+		</item>
+		<item>
+			<name>Canon Spectro</name>
+			<OptionsDlg>
+				<title>Canon Spectro</title>
+				<item>
+					<title>Canon Spectro</title>
+					<id>13</id>
+					<xPageMax>14.173228</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>11.59</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>11.00</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>205</swatchType>	
+				    <Offsets left="30" right="30" top="15.579" bottom="110" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>42</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Canon</PrinterMake>
+			<PrinterModel>imagePROGRAF iPF6450</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		
+		<item>
+			<name>Mutoh 2638</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<item>
+					<title>Mutoh 2638</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>20</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="28" right="30" top="10" bottom="10" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>43</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-2638,VJ-2638EU</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>Mutoh 1617 H</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<item>
+					<title>Mutoh 1617 H</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>20</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="28" right="30" top="10" bottom="10" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>45</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1617H (ValueJet),VJ-1617H EU (ValueJet)</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		
+		<item>
+			<name>HP Latex</name>
+			<OptionsDlg>
+				<item>
+					<title>HP Latex</title>
+					<id>10</id>
+					<xPageMax>58</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>21</xPatchMM>
+					<yPatchMM>30</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>206</swatchType>	
+					<Offsets left="75" right="73" top="0" bottom="0" comment="need for calculation cols"/>
+					<Characterization>
+						<Offsets left="75" right="73" top="0" bottom="0"  comment="need for calculation cols"/>
+						<swatchName>206</swatchName>	
+						<swatchType>206</swatchType>	
+						<swatchNameContinues>206</swatchNameContinues>
+					</Characterization>
+				</item>
+			</OptionsDlg>
+			<id>46</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_L25500</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Hewlett-Packard</PrinterMake>
+			<PrinterModel>HP Latex 360 Printer,HP Latex 330 Printer,HP Latex 310 Printer 54,HP Latex 310 Printer 64,HP Latex 370 Printer,HP Latex 560 Printer,HP Latex 570 Printer,HP Latex 375 Printer,HP Latex 365 Printer,HP Latex 335 Printer</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<MeasurementStartData>
+				<Offsets left="75" right="73" top="0" bottom="0"  comment="need for calculation cols"/>
+				<first x="90" y="45" /> <!-- mm  x="30" y="25"  Coordinates of the left top patchs center. -->
+				<delta x="21" y="30" /> <!-- mm  Distance (in horizontal) between two consecutive patches in the same row, and distance (in vertical) between two consecutive rows, both measured from center-to-center. -->
+				<delay>300</delay>  <!-- seconds Stabilization time, in seconds. -->
+				<spacing>51</spacing> <!-- mm  Distance (in horizontal) from the center of an alignment mark to the center of the closest patch. -->
+				<absolute>0</absolute><!-- or 0 Defines the coordinates system as absolute (from the physical medium edges) or relative (to the printable area origin) -->
+				<!--nPatchPerRow>13</nPatchPerRow-->
+				<meastype>2</meastype> <!-- Requested measurement type. HPDECM_MEASUREMENT_TYPE_ALL = 0 HPDECM_MEASUREMENT_TYPE_SPECTRAL=1 HPDECM_MEASUREMENT_TYPE_CIEXYZ=2 HPDECM_MEASUREMENT_TYPE_CIELAB=3 HPDECM_MEASUREMENT_TYPE_DENSITY=4 HPDECM_MEASUREMENT_TYPE=5-->
+				<nscans>4</nscans> <!-- Number of Scans per patch -->
+				<Characterization>
+					<Offsets left="75" right="73" top="0" bottom="0"  comment="need for calculation cols"/>
+					<first x="90" y="45" /> <!-- mm  x="30" y="25"  Coordinates of the left top patchs center. -->
+					<delta x="21" y="30" /> <!-- mm  Distance (in horizontal) between two consecutive patches in the same row, and distance (in vertical) between two consecutive rows, both measured from center-to-center. -->
+					<delay>300</delay>  <!-- seconds Stabilization time, in seconds. -->
+					<spacing>51</spacing> <!-- mm  Distance (in horizontal) from the center of an alignment mark to the center of the closest patch. -->
+					<absolute>0</absolute><!-- or 0 Defines the coordinates system as absolute (from the physical medium edges) or relative (to the printable area origin) -->
+					<!--nPatchPerRow>13</nPatchPerRow-->
+					<meastype>2</meastype> <!-- Requested measurement type. HPDECM_MEASUREMENT_TYPE_ALL = 0 HPDECM_MEASUREMENT_TYPE_SPECTRAL=1 HPDECM_MEASUREMENT_TYPE_CIEXYZ=2 HPDECM_MEASUREMENT_TYPE_CIELAB=3 HPDECM_MEASUREMENT_TYPE_DENSITY=4 HPDECM_MEASUREMENT_TYPE=5-->
+					<!--nscans>2</nscans--> <!-- Number of Scans per patch -->
+				</Characterization>
+			</MeasurementStartData>
+		</item>
+		<item>
+			<name>HP Z6800</name>
+			<OptionsDlg>
+				<item>
+					<title>HP Designjet Z6800 60</title>
+					<id>13</id>
+					<xPageMax>58</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>15</xPatchMM>
+					<yPatchMM>15</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>111</swatchType>					
+				</item>
+			</OptionsDlg>
+			<id>47</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>HP</PrinterMake>
+			<PrinterModel>DesignJet Z6800 60</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<item>
+			<name>Mutoh 1626UH</name>
+			<OptionsDlg>
+				<title>Mutoh SpectroVue VM-10 Settings</title>
+				<item>
+					<title>Mutoh 1626UH</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>20</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>20</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>201</swatchType>	
+				    <Offsets left="28" right="30" top="10" bottom="10" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>48</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1626UH</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		
+		
+		<item>
+			<name>X-Rite Eye-One IO2</name>
+			<id>49</id>
+			<alias_id>22</alias_id>
+			<more_data>IO2</more_data>
+			<DeviceType>densitometer,colorimeter,spectral,handheld_colorimeter</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_GRETAG_I1_IO</FeatureName>
+			<TypeOptionsDialog>CC_METER_GRETAG_I1IO</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_GRETAG_I1IO</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>true</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>true</IsPatchRemeasureSupported>
+			<IsSupportCalibration>true</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListUSB</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+		
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,-1,-1</observer><!--OBSERVER_TWO_DEGREE, -1, -1-->
+				<densitystatus>1,4,0,5,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_T,ST_DEN_Filter_A,ST_DEN_Filter_I,ST_DEN_DIN,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+		</item>
+		
+		<item>
+			<name>SpyderPrint</name>
+			<OptionsDlg>
+				<title>Spyder Print</title>
+				<item>
+					<title>Spyder Print</title>
+					<id>13</id>
+					<xPageMax>10.5</xPageMax>
+					<yPageMax>8.5</yPageMax>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>12</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>11</yPatchMM>
+					<xGap>0.07</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.07</yGap>
+					<swatchType>207</swatchType>	
+				    <Offsets left="10" right="0" top="0" bottom="0" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+				</item>
+			</OptionsDlg>
+			<id>50</id>
+			<DeviceType>densitometer,colorimeter,spectral,handheld_colorimeter</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_DATACOLOR_SPYDERPRINT</FeatureName>
+			<TypeOptionsDialog>CC_METER_DATACOLOR_SPYDERPRINT</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_DATACOLOR_SPYDERPRINT</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>true</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>false</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>true</IsPatchRemeasureSupported>
+			<IsSupportCalibration>true</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+		
+			<Port>PortListUSB</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+		
+			<DeviceCap>
+				<illuminant>1,2,-1,-1,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,-1,-1</observer><!--OBSERVER_TWO_DEGREE, -1, -1-->
+				<densitystatus>1,4,0,5,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_T,ST_DEN_Filter_A,ST_DEN_Filter_I,ST_DEN_DIN,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+			
+		</item>
+		
+		
+		<item>
+			<name>Barbieri Gateway (Reflective Mode)</name>
+			<id>51</id><!--39-->
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListCOM,PortListUSB,PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<OptionsDlg>
+				<!--2mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<!--FillAllPagesMaxRows>true</FillAllPagesMaxRows-->
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<!--FillAllPagesMaxRows>true</FillAllPagesMaxRows-->
+				</item>
+				<!--8mm-->
+				<item>
+					<id>2</id>						
+					<xPatchMM>11.5</xPatchMM>
+					<yPatchMM>11.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<!--FillAllPagesMaxRows>true</FillAllPagesMaxRows-->
+				</item>
+			</OptionsDlg>
+		</item>
+		<item>
+			<name>Barbieri Gateway (Transmissive Mode)</name>
+			<id>151</id><!-- transmission mode enable if + 100 -->
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListCOM,PortListUSB,PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+	
+			<OptionsDlg>
+				<!--2mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<!--FillAllPagesMaxRows>true</FillAllPagesMaxRows-->
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<!--FillAllPagesMaxRows>true</FillAllPagesMaxRows-->
+				</item>
+				<!--8mm-->
+				<item>
+					<id>2</id>						
+					<xPatchMM>11.5</xPatchMM>
+					<yPatchMM>11.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+					<!--FillAllPagesMaxRows>true</FillAllPagesMaxRows-->
+				</item>
+			</OptionsDlg>
+		</item>
+		<item>
+			<name>Epson SpectroProofer</name>
+			<OptionsDlg>
+				<title>Epson SpectroProofer Settings</title>
+				<item>
+					<title>SpectroProofer</title>
+					<id>13</id>
+					<!-- These values should be the same as in Swatch2 201 -->
+					<xPatchMM>12</xPatchMM><!-- Patch size for Swatch2 201 -->
+					<yPatchMM>12</yPatchMM>
+					<xGap>0.0</xGap><!-- xGap for Swatch2 201 -->
+					<yGap>0.0</yGap>
+					<swatchType>208</swatchType>	
+				    <Offsets left="30" right="50" __top="0" bottom="58" top="175" /> <!-- offsets from swatch file Swatch2 201 32 cells -->
+					<xPageMaxMM>413</xPageMaxMM>
+					<yPageMaxMM>540</yPageMaxMM>
+				</item>
+			</OptionsDlg>
+			<id>52</id>
+			<!--alias_id>28</alias_id-->
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Epson</PrinterMake>
+			<PrinterModel>SC-P5000 (LLK),SC-P5000 (Violet),SC-P5070 (LLK),SC-P5070 (Violet),SC-P5080 (LLK),SC-P5080 (Violet),SC-P5050 (LLK),SC-P5050 (Violet),SC-P6000</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item>
+		<!--item>
+			<name>Ricoh</name>
+			<OptionsDlg>
+				<title>Ricoh Settings</title>
+				<item>
+					<title>Ricoh</title>
+					<id>13</id>
+					<xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>14</xPatchMM>
+					<yPatchMM>14</yPatchMM>
+					<xGapMM>12</xGapMM>
+					<yGapMM>0</yGapMM>
+					<swatchType>209</swatchType>	
+				    <Offsets left="28" right="10" top="45" bottom="10" customMargins="yes" />
+				</item>
+			</OptionsDlg>
+			<id>53</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> 
+			<FeatureName>DEN_METER_HP_Z3200</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog>
+			<MeterName>hp</MeterName>
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow>
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Ricoh</PrinterMake>
+			<PrinterModel>RollToRoll_v1_0</PrinterModel>
+			
+			<Port>PortListIP</Port>
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+		</item-->
+		
+		<item>
+			<name>Barbieri Spectro LFP qb (Reflective Mode)</name>
+			<id>54</id><!--39-->
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>true</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListCOM,PortListUSB,PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<OptionsDlg>
+				<!--2mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+				<!--8mm-->
+				<item>
+					<id>2</id>						
+					<xPatchMM>11.5</xPatchMM>
+					<yPatchMM>11.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+			</OptionsDlg>
+		</item>
+		<item>
+			<name>Barbieri Spectro LFP qb (Transmissive Mode)</name>
+			<id>154</id><!-- transmission mode enable if + 100 -->
+			<alias_id>23</alias_id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_BARBIERI</FeatureName>
+			<TypeOptionsDialog>CC_METER_BARBIERI_LFP</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_BARBIERI_LFP</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>true</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListCOM,PortListUSB,PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>1,2,3,0,-1</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, OBSERVER_TEN_DEGREE, -1-->
+				<densitystatus>4,2,1,-1,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_A,ST_DEN_Filter_M,ST_DEN_Filter_T,-1,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+	
+			<OptionsDlg>
+				<!--2mm-->
+				<item>
+					<id>0</id>
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+				<!--8mm-->
+				<item>
+					<id>2</id>						
+					<xPatchMM>11.5</xPatchMM>
+					<yPatchMM>11.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<swatchType>107</swatchType>	
+					<Offsets left="60" right="23" top="16" bottom="53.5" />
+					<isBarbieriPatchStyle>true</isBarbieriPatchStyle>
+				</item>
+			</OptionsDlg>
+		</item>
+		<item>
+			<name>HP DesignJet Z</name>
+			<OptionsDlg>
+				<item>
+					<title>HP DesignJet Z</title>
+					<id>10</id>
+					<xPageMax>58</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>21</xPatchMM>
+					<yPatchMM>30</yPatchMM>
+					<xGap>0.0</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>206</swatchType>	
+					<Offsets left="75" right="73" top="0" bottom="0" comment="need for calculation cols"/>
+					<Characterization>
+						<Offsets left="75" right="73" top="0" bottom="0"  comment="need for calculation cols"/>
+						<swatchName>206</swatchName>
+						<swatchType>206</swatchType>							
+						<swatchNameContinues>206</swatchNameContinues>
+					</Characterization>
+				</item>
+			</OptionsDlg>
+			<id>55</id>
+			<DeviceType>densitometer,colorimeter,spectral</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_HP_L25500</FeatureName>
+			<TypeOptionsDialog>hp</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>hp</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>false</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>true</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>false</IsPatchRemeasureSupported>
+			<IsSupportCalibration>false</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement>
+			
+			<bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			
+			<IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Hewlett-Packard</PrinterMake>
+			<PrinterModel>DesignJet Z6 24in,DesignJet Z6 44in,DesignJet Z6dr 44in,DesignJet Z9 24in,DesignJet Z9 44in,DesignJet Z9dr 44in</PrinterModel>
+			
+			<Port>PortListIP</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+			
+			<DeviceCap>
+				<illuminant>-1,-1,-1,-1,-1</illuminant>
+				<observer>-1,-1,-1</observer>
+				<densitystatus>-1,-1,-1,-1,-1,-1,-1,-1</densitystatus>
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>0</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<MeasurementStartData>
+				<Offsets left="75" right="73" top="0" bottom="0"  comment="need for calculation cols"/>
+				<first x="90" y="45" /> <!-- mm  x="30" y="25"  Coordinates of the left top patchs center. -->
+				<delta x="21" y="30" /> <!-- mm  Distance (in horizontal) between two consecutive patches in the same row, and distance (in vertical) between two consecutive rows, both measured from center-to-center. -->
+				<delay>300</delay>  <!-- seconds Stabilization time, in seconds. -->
+				<spacing>51</spacing> <!-- mm  Distance (in horizontal) from the center of an alignment mark to the center of the closest patch. -->
+				<absolute>0</absolute><!-- or 0 Defines the coordinates system as absolute (from the physical medium edges) or relative (to the printable area origin) -->
+				<!--nPatchPerRow>13</nPatchPerRow-->
+				<meastype>2</meastype> <!-- Requested measurement type. HPDECM_MEASUREMENT_TYPE_ALL = 0 HPDECM_MEASUREMENT_TYPE_SPECTRAL=1 HPDECM_MEASUREMENT_TYPE_CIEXYZ=2 HPDECM_MEASUREMENT_TYPE_CIELAB=3 HPDECM_MEASUREMENT_TYPE_DENSITY=4 HPDECM_MEASUREMENT_TYPE=5-->
+				<nscans>1</nscans> <!-- Number of Scans per patch -->
+				<Characterization>
+					<Offsets left="75" right="73" top="0" bottom="0"  comment="need for calculation cols"/>
+					<first x="90" y="45" /> <!-- mm  x="30" y="25"  Coordinates of the left top patchs center. -->
+					<delta x="21" y="30" /> <!-- mm  Distance (in horizontal) between two consecutive patches in the same row, and distance (in vertical) between two consecutive rows, both measured from center-to-center. -->
+					<delay>300</delay>  <!-- seconds Stabilization time, in seconds. -->
+					<spacing>51</spacing> <!-- mm  Distance (in horizontal) from the center of an alignment mark to the center of the closest patch. -->
+					<absolute>0</absolute><!-- or 0 Defines the coordinates system as absolute (from the physical medium edges) or relative (to the printable area origin) -->
+					<!--nPatchPerRow>13</nPatchPerRow-->
+					<meastype>2</meastype> <!-- Requested measurement type. HPDECM_MEASUREMENT_TYPE_ALL = 0 HPDECM_MEASUREMENT_TYPE_SPECTRAL=1 HPDECM_MEASUREMENT_TYPE_CIEXYZ=2 HPDECM_MEASUREMENT_TYPE_CIELAB=3 HPDECM_MEASUREMENT_TYPE_DENSITY=4 HPDECM_MEASUREMENT_TYPE=5-->
+					<!--nscans>2</nscans--> <!-- Number of Scans per patch -->
+				</Characterization>
+			</MeasurementStartData>
+		</item>
+		<item>
+			<name>X-Rite i1Pro3 PLUS</name>
+			<id>56</id>
+			<DeviceType>densitometer,colorimeter,spectral,handheld_colorimeter</DeviceType> <!-- densitometer,colorimeter,spectral,handheld_colorimeter,radiometer -->
+			<FeatureName>DEN_METER_GRETAG_I1</FeatureName>
+			<TypeOptionsDialog>CC_METER_GRETAG_I1</TypeOptionsDialog><!-- option dialog hp or standard -->
+			<MeterName>CC_METER_GRETAG_I1</MeterName><!-- hp or standard -->
+			<IsStripRemeasureSupported>true</IsStripRemeasureSupported>
+			<IsPageRemeasureSupported>false</IsPageRemeasureSupported>
+			<IsPatchRemeasureSupported>true</IsPatchRemeasureSupported>
+			<IsSupportCalibration>true</IsSupportCalibration>
+			<IsSupportTransmissiveMeasurement>false</IsSupportTransmissiveMeasurement><!--??-->
+			
+			<!--bHasHPContinuousFlow>true</bHasHPContinuousFlow>
+			<bUseHPContinuousFlow>true</bUseHPContinuousFlow> 
+			<bHideHPContinuousFlow>true</bHideHPContinuousFlow--> 
+			
+			<!--IsIPOptions>true</IsIPOptions>
+			<PrinterMake>Mutoh</PrinterMake>
+			<PrinterModel>VJ-1638,VJ-1638EU</PrinterModel-->
+			
+			<Port>PortListUSB</Port><!-- PortListUSB,PortListIP,PortListCOM,PortListFull -->
+		
+			<DeviceCap>
+				<illuminant>0,1,2,3,4,</illuminant> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<illuminant_str>M0,M1,M2,M3,Emi,</illuminant_str> <!--ST_ILLUM_D50,ST_ILLUM_D65,ST_ILLUM_A,ST_ILLUM_C,-1-->
+				<observer>0,1,-1</observer><!--OBSERVER_TWO_DEGREE, -1, -1-->
+				<densitystatus>1,4,0,5,-1,-1,-1,-1</densitystatus><!--ST_DEN_Filter_T,ST_DEN_Filter_A,ST_DEN_Filter_I,ST_DEN_DIN,-1,-1,-1,-1-->
+				<autoMoves>0</autoMoves>
+				<hasAdvancedOptions>1</hasAdvancedOptions>
+			</DeviceCap>
+			
+			<OptionsDlg>
+				<item>
+					<title>X-Rite i1Pro3 PLUS</title>
+					<id>0</id>
+					<xPageMax>10.5</xPageMax>
+					<yPageMax>-1</yPageMax>
+					<xPatchMM>22</xPatchMM>
+					<yPatchMM>16</yPatchMM>
+					<xGap>0.0555555555555556</xGap>
+					<yGap>0.0</yGap>
+					<swatchType>210</swatchType>	
+					<Offsets left="24.694444" right="24.69444" top="10.58332" bottom="10.58332" comment="need for calculation cols"/>
+				</item>
+			</OptionsDlg>
+			
+		</item>
+	</DeviceList>
+	<StandardDeviceList>
+		<item>
+			<id>23</id><!--Barbieri-->		
+			<types>	
+				<!--2mm-->
+				<item>
+					<id>0</id>	
+					<!--xPageMax>40</xPageMax>
+					<yPageMax>-1</yPageMax-->
+					<xPatchMM>6.0</xPatchMM>
+					<yPatchMM>6.0</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+					<!--swatchType>201</swatchType>	
+					<Offsets left="10" right="30" top="10" bottom="10" /-->
+				</item>
+				<!--6mm-->
+				<item>
+					<id>1</id>						
+					<xPatchMM>9.5</xPatchMM>
+					<yPatchMM>9.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+				</item>
+				<!--8mm-->
+				<item>
+					<id>2</id>						
+					<xPatchMM>11.5</xPatchMM>
+					<yPatchMM>11.5</yPatchMM>
+					<xGapMM>0.5</xGapMM>
+					<yGapMM>0.5</yGapMM>
+				</item>
+			</types>					
+		</item>
+	</StandardDeviceList>
+</root>

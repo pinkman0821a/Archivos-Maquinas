@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<Definition>
+  <Model Name="GZBK-DX5" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" 
+		SupportLcLm="No" SupportBits="3" SupportQuality="No" SupportVsdMode="No" DllName="GZBK-DX5.dll">
+	<Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v360x360</Display><Internal><xResolution>360.0</xResolution><yResolution>360.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x360</Display><Internal><xResolution>720.0</xResolution><yResolution>360.0</yResolution></Internal></Resolution>
+	</Model>
+  
+    <Model Name="GZBK-DX7" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" 
+		SupportLcLm="No" SupportBits="3" SupportQuality="No" SupportVsdMode="No" DllName="GZBK-DX7.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	</Model>
+  
+   <Model Name="GZBK-DX5113" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" PrintType="25" SupportLcLm="Yes" SupportWhite="No" SupportVarnish="No" 
+	SupportBits="0x03" SupportQuality="No" SupportVsdMode="No" Support3Level="Yes" Mix3_4Level="Yes" L3Weight="0.4"  L3SmallDot="No" DllName="GZBK-DX5113.dll">
+		<Resolution><Display>v360x1800</Display><Internal><xResolution>360.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1200</Display><Internal><xResolution>720.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1800</Display><Internal><xResolution>720.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x2400</Display><Internal><xResolution>720.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x3600</Display><Internal><xResolution>720.0</xResolution><yResolution>3600.0</yResolution></Internal></Resolution>
+	</Model>
+  
+   <Model Name="GZBK-X5" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1"  SupportLcLm="Yes"
+		 SupportBits="3" SupportQuality="No" SupportVsdMode="No" DllName="GZBK-X5.dll">
+		<Resolution><Display>v360x540</Display><Internal><xResolution>360.0</xResolution><yResolution>540.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x720</Display><Internal><xResolution>360.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1440</Display><Internal><xResolution>360.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x2160</Display><Internal><xResolution>360.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	 <Resolution><Display>v720x360</Display><Internal><xResolution>720.0</xResolution><yResolution>360.0</yResolution></Internal></Resolution>
+	<Resolution><Display>v720x540</Display><Internal><xResolution>720.0</xResolution><yResolution>540.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	
+	
+	</Model>
+  
+   <Model Name="GZBK-DX10" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" 
+		SupportLcLm="No" SupportBits="3" SupportQuality="No" SupportVsdMode="No" DllName="GZBK-DX10.dll">
+  <Resolution><Display>v360x1080 6Pass</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	</Model>
+ 
+<Model Name="GZBK-UV-DX5" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" DllName="GZBK-UV-DX5.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+  
+  <Model Name="GZBK-UV-DX7" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" DllName="GZBK-UV-DX7.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+  
+   <Model Name="GZBK-UV-DX10" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" SupportLcLm="Yes" DllName="GZBK-UV-DX10.dll">
+ <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+</Model>
+  
+    <Model Name="GZBK-UV-X5" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" SupportLcLm="Yes" DllName="GZBK-UV-X5.dll">
+    <Resolution><Display>v360x540</Display><Internal><xResolution>360.0</xResolution><yResolution>540.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x720</Display><Internal><xResolution>360.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1440</Display><Internal><xResolution>360.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x2160</Display><Internal><xResolution>360.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	<Resolution><Display>v360x2880</Display><Internal><xResolution>360.0</xResolution><yResolution>2880.0</yResolution></Internal></Resolution>
+</Model>
+
+<Model Name="GZBK-UV-DX5-X" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" DllName="GZBK-UV-DX5.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+  
+  <Model Name="GZBK-UV-DX7-X" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" DllName="GZBK-UV-DX7.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+ 
+   <Model Name="GZBK-UV-DX10-X" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="10" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" SupportLcLm="Yes" DllName="GZBK-UV-DX10.dll">
+ <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+   <Resolution><Display>v360x1440</Display><Internal><xResolution>360.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x2160</Display><Internal><xResolution>360.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+  
+  
+<Model Name="GZBK-UV-X5-X" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" SupportLcLm="Yes" DllName="GZBK-UV-X5.dll">
+    <Resolution><Display>v360x540</Display><Internal><xResolution>360.0</xResolution><yResolution>540.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x720</Display><Internal><xResolution>360.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1440</Display><Internal><xResolution>360.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x2160</Display><Internal><xResolution>360.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+
+<Model Name="SZ-UV-DX10" ColorOrder="1" Signature="0x00" HeadStruct="1" BitMinusOne="No" SupportQuality="No" FillHeads="No" SupportLcLm="No" SupportSpot="Yes" NHeads="6" 
+SupportVsdMode="No" SupportBits="3" >
+	<Resolution defPass="6"><Display>720x1080 6pass</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+	<Resolution defPass="8"><Display>720x1440 8pass</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+	<Resolution defPass="12"><Display>720x2160 12pass</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	<Resolution defPass="16"><Display>720x2880 16pass</Display><Internal><xResolution>720.0</xResolution><yResolution>2880.0</yResolution></Internal></Resolution>
+</Model>  
+
+<Model Name="SZ-UV-BK-DX10" ColorOrder="1" Signature="0x00" HeadStruct="1" BitMinusOne="No" SupportQuality="No" FillHeads="No" SupportLcLm="Yes" SupportSpot="Yes" NHeads="8"
+SupportVsdMode="No" SupportBits="3" >
+	<Resolution defPass="6"><Display>720x1080 6pass</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+	<Resolution defPass="8"><Display>720x1440 8pass</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+	<Resolution defPass="12"><Display>720x2160 12pass</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+	<Resolution defPass="16"><Display>720x2880 16pass</Display><Internal><xResolution>720.0</xResolution><yResolution>2880.0</yResolution></Internal></Resolution>
+</Model> 
+
+<Model Name="GZBK-BJBK-DX5-7" ColorOrder="2" SupportBits="0x03" SupportLcLm="No"  BitMinusOne="No" Signature="0x58485942" HeadStruct="2" DllAPI="2" 
+Version="3" DllName="PrinterPort.dll" CaptionCustom_1="Epson Mode" StringCustom_1="High quality,High speed," ValueCustom_1="0,1," SupportQuality="YES"
+ SupportDirection="YES" SupportVsdMode="YES" VsdCustom="VSD Mode" VsdString1b="VSD2," VsdValue1b="2," VsdString2b="VSD1,VSD3,VSD4," VsdValue2b="1," FillHeads="No"
+	NHeads="4"  SupportSpot="No">	
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x360</Display><Internal><xResolution>720.0</xResolution><yResolution>360.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+</Model>
+
+<Model Name="GZBK-BJBK-DX5113-4720" ColorOrder="2" SupportBits="0x03" SupportLcLm="No"  BitMinusOne="No" Signature="0x58485942" HeadStruct="2" DllAPI="2" 
+Version="3" DllName="PrinterPort.dll" CaptionCustom_1="Epson Mode" StringCustom_1="High quality,High speed," ValueCustom_1="0,1," SupportQuality="YES"
+ SupportDirection="YES" SupportVsdMode="YES" VsdCustom="VSD Mode" VsdString1b="VSD2," VsdValue1b="2," VsdString2b="VSD1,VSD3,VSD4," VsdValue2b="1," FillHeads="No"
+	NHeads="4"  SupportSpot="No">		
+	<Resolution><Display>v720x600</Display><Internal><xResolution>720.0</xResolution><yResolution>600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x900</Display><Internal><xResolution>720.0</xResolution><yResolution>900.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1200</Display><Internal><xResolution>720.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1800</Display><Internal><xResolution>720.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x2400</Display><Internal><xResolution>720.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+	<Resolution><Display>v360x1200</Display><Internal><xResolution>360.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1800</Display><Internal><xResolution>360.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x2400</Display><Internal><xResolution>360.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+</Model>
+
+<Model Name="GZBK-BJBK-DX1201" ColorOrder="2" SupportBits="0x03" SupportLcLm="No"  BitMinusOne="No" Signature="0x58485942" HeadStruct="2" DllAPI="2" 
+Version="3" DllName="PrinterPort.dll" CaptionCustom_1="Epson Mode" StringCustom_1="High quality,High speed," ValueCustom_1="0,1," SupportQuality="YES"
+ SupportDirection="YES" SupportVsdMode="YES" VsdCustom="VSD Mode" VsdString1b="VSD2," VsdValue1b="2," VsdString2b="VSD1,VSD3,VSD4," VsdValue2b="1," FillHeads="No"
+	NHeads="4"  SupportSpot="No">		
+    <Resolution><Display>v360x1200</Display><Internal><xResolution>360.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x1800</Display><Internal><xResolution>360.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v360x2400</Display><Internal><xResolution>360.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+ 	<Resolution><Display>v720x600</Display><Internal><xResolution>720.0</xResolution><yResolution>600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x900</Display><Internal><xResolution>720.0</xResolution><yResolution>900.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1200</Display><Internal><xResolution>720.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1800</Display><Internal><xResolution>720.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x2400</Display><Internal><xResolution>720.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+</Model>
+
+   <Model Name="GZBK-UV-DX10-X2" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" SupportLcLm="Yes" DllName="GZBK-UV-DX10.dll">
+ <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+</Model>
+
+<Model Name="GZBK-BJBK-JINDIE" ColorOrder="2" SupportBits="0x03" SupportLcLm="No"  BitMinusOne="No" Signature="0x58485942" HeadStruct="2" DllAPI="2" 
+Version="3" DllName="PrinterPort.dll" CaptionCustom_1="Epson Mode" StringCustom_1="High quality,High speed," ValueCustom_1="0,1," SupportQuality="YES"
+ SupportDirection="YES" SupportVsdMode="YES" VsdCustom="VSD Mode" VsdString1b="VSD2," VsdValue1b="2," VsdString2b="VSD1,VSD3,VSD4," VsdValue2b="1," FillHeads="No"
+	NHeads="6"  SupportSpot="No">		
+	<Resolution><Display>v720x600</Display><Internal><xResolution>720.0</xResolution><yResolution>600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x900</Display><Internal><xResolution>720.0</xResolution><yResolution>900.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1200</Display><Internal><xResolution>720.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x1800</Display><Internal><xResolution>720.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>v720x2400</Display><Internal><xResolution>720.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+</Model>
+
+
+<Model Name="GZBK-XP600-4C" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" DllName="HTPrintAPI0406.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+
+<Model Name="GZBK-A3-3452" ColorOrder="2" Signature="0x5555" SupportLcLm="Yes"  BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" DllName="HTPrintAPI0406.dll">
+   <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+</Model>
+  
+  <Model Name="GZBK-UV-XP600" ColorOrder="2" Signature="0x5555" BitMinusOne="No" DllAPI="1" HeadStruct="1" NHeads="8" SupportSpot="Yes" SpotColorValue1="0xfefefe" SpotColorValue2="0xf8f8f8" 
+	SupportBits="0x03" SupportLcLm="Yes" DllName="HTPrintAPI_XP600.dll">
+  <Resolution><Display>v360x1080</Display><Internal><xResolution>360.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x720</Display><Internal><xResolution>720.0</xResolution><yResolution>720.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1080</Display><Internal><xResolution>720.0</xResolution><yResolution>1080.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x1440</Display><Internal><xResolution>720.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v720x2160</Display><Internal><xResolution>720.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v360x1440</Display><Internal><xResolution>360.0</xResolution><yResolution>1440.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v360x2160</Display><Internal><xResolution>360.0</xResolution><yResolution>2160.0</yResolution></Internal></Resolution>
+  <Resolution><Display>v360x2880</Display><Internal><xResolution>360.0</xResolution><yResolution>2880.0</yResolution></Internal></Resolution>
+</Model>
+  
+   <Model Name="GZBK-3200U1-9060" Signature="0x5555" SupportLcLm="No"  ColorOrder="2"  BitMinusOne="No" DllAPI="1" HeadStruct="1" SupportBits="0x03"
+         SupportVsdMode="No" Mix3_4Level="Yes" Support3Level="Yes" L3Weight="0.4"  L3SmallDot="No" NHeads="8" SupportSpot="Yes"  FillHeads="No">
+    <Resolution><Display>360x1200</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 1200.0</yResolution></Internal></Resolution>
+		<Resolution><Display>360x1800</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>360x2400</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 2400.0</yResolution></Internal></Resolution>
+    <Resolution><Display>360x3600</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 3600.0</yResolution></Internal></Resolution>
+		<Resolution><Display>720x1200</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x1800</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x2400</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 2400.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x3600</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 3600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x600</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x900</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 900.0</yResolution></Internal></Resolution>
+ </Model>
+  
+   <Model Name="GZBK-3200U1" Signature="0x5555" SupportLcLm="No"  ColorOrder="2"  BitMinusOne="No" DllAPI="1" HeadStruct="1" SupportBits="0x03"
+         SupportVsdMode="No" Mix3_4Level="Yes" Support3Level="Yes" L3Weight="0.4"  L3SmallDot="No" NHeads="8" SupportSpot="Yes"  FillHeads="No">
+    <Resolution><Display>360x1200</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 1200.0</yResolution></Internal></Resolution>
+		<Resolution><Display>360x1800</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>360x2400</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 2400.0</yResolution></Internal></Resolution>
+    <Resolution><Display>360x3600</Display> <Internal> <xResolution> 360.0 </xResolution> <yResolution> 3600.0</yResolution></Internal></Resolution>
+		<Resolution><Display>720x1200</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 1200.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x1800</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x2400</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 2400.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x3600</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 3600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x600</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 600.0</yResolution></Internal></Resolution>
+    <Resolution><Display>720x900</Display> <Internal> <xResolution> 720.0 </xResolution> <yResolution> 900.0</yResolution></Internal></Resolution>
+ </Model>
+  
+  <Model Name="GZBK-S2070-3" ColorOrder="2" SupportBits="0x03" BitMinusOne="No" Signature="0x58485942" HeadStruct="2" DllAPI="2" Version="3" SupportLcLm="Yes" SupportLkLLk="Yes" DllName="PrinterPort.dll" 
+	CaptionCustom_1="Epson Mode" StringCustom_1="High quality,High speed," ValueCustom_1="0,1," SupportQuality="YES" SupportDirection="YES" 
+	SupportVsdMode="YES" VsdCustom="VSD Mode" VsdString1b="VSD2," VsdValue1b="2," VsdString2b="VSD1,VSD3" VsdValue2b="1,3," FillHeads="No" 
+	Mix3_4Level="Yes" Support3Level="Yes" L3Weight="0.4"  L3SmallDot="No"  SupportWhite="Yes" SupportVarnish="Yes">
+		<Resolution><Display>V720x600 2PASS</Display><Internal><xResolution>720.0</xResolution><yResolution>600.0</yResolution></Internal></Resolution>
+		<Resolution><Display>V360x1800 3PASS</Display><Internal><xResolution>360.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+		<Resolution><Display>V720x1200 4PASS</Display><Internal><xResolution>720.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+		<Resolution><Display>V720x1800 6PASS</Display><Internal><xResolution>720.0</xResolution><yResolution>1800.0</yResolution></Internal></Resolution>
+    <Resolution><Display>V720x2400 8PASS</Display><Internal><xResolution>720.0</xResolution><yResolution>2400.0</yResolution></Internal></Resolution>
+    <Resolution><Display>V720x3600 12PASS</Display><Internal><xResolution>720.0</xResolution><yResolution>3600.0</yResolution></Internal></Resolution>
+	</Model>
+
+<Model Name="GZBK-UV-2513" Signature="0x5555" ColorOrder="1" SupportLcLm="Yes" BitMinusOne="No" DllAPI="1" HeadStruct="1" SupportBits="0x03"
+         SupportVsdMode="No" NHeads="8" SupportSpot="Yes" FillHeads="No" RECIPass="Yes" DllName="RECI.dll">
+  <Resolution defPass="3"><Display>726x300</Display><Internal><xResolution>726.0</xResolution><yResolution>300.0</yResolution></Internal></Resolution>
+  <Resolution defPass="4"><Display>726x600</Display><Internal><xResolution>726.0</xResolution><yResolution>600.0</yResolution></Internal></Resolution>
+  <Resolution defPass="6"><Display>726x900</Display><Internal><xResolution>726.0</xResolution><yResolution>900.0</yResolution></Internal></Resolution>
+  <Resolution defPass="8"><Display>726x1200</Display><Internal><xResolution>726.0</xResolution><yResolution>1200.0</yResolution></Internal></Resolution>
+  <Resolution defPass="10"><Display>726x1500</Display><Internal><xResolution>726.0</xResolution><yResolution>1500.0</yResolution></Internal></Resolution>
+  <Resolution defPass="12"><Display>726x1800</Display><Internal><xResolution>726.0</xResolution><yResolution>1500.0</yResolution></Internal></Resolution>
+ </Model>
+</Definition>

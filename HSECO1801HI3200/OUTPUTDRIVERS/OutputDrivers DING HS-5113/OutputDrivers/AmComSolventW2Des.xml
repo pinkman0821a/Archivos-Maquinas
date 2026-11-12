@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<Definition version="2">
+	<Model Name="FY-"			XMLFile="AmFeiYeungDes.xml"/>
+	<Model Name="AVANTJET"		XMLFile="AmFeiYeungDes.xml"/>
+	<Model Name="JUMBOJET"		XMLFile="AmFeiYeungDes.xml"/>
+	<Model Name="LT-"			XMLFile="AmLotusDes.xml"/>	
+	<Model Name="LC-"			XMLFile="AmLecaiDes.xml"/>	
+	<Model Name="TT-"			XMLFile="AmTitanDes.xml"/>	
+	<Model Name="SignStar"		XMLFile="AmSignStarDes.xml"/>	
+	<Model Name="Twinjet"		XMLFile="AmTwinjetDes.xml"/>
+	<Model Name="Xenons"		XMLFile="AmXenonsDes.xml"/>		
+	<Model Name="YSL"			XMLFile="AmYaselanDes2.xml" />
+	<Model Name="Seron"			XMLFile="AmSinotecDes.xml" comment="base on Yaselan"/>
+	<Model Name="Teck"			XMLFile="AmTeckWinDes.xml" />
+	<Model Name="JHF"			XMLFile="AmJHFDes.xml" />
+	<Model Name="Flora"			XMLFile="AmFloraDes.xml" />
+	<Model Name="Niprint"		XMLFile="AmPrintPrettyDes.xml" />
+	<Model Name="PrintPretty"	XMLFile="AmPrintPrettyDes.xml" />
+	<Model Name="DAZZLE"		XMLFile="AmGoldenSignDes.xml" />
+	<Model Name="HJ-"			XMLFile="AmHiJetDes.xml" />
+	<Model Name="Michelangelo"	XMLFile="AmMichelangeloDes.xml" />
+	<Model Name="AE-"			XMLFile="AmAWDes.xml" />
+	<Model Name="YE-"			XMLFile="AmAWDes.xml" />
+	<Model Name="YJ-"			XMLFile="AmAWDes.xml" />
+	<Model Name="AK-"			XMLFile="AmAWDes.xml" />
+	<Model Name="YK-"			XMLFile="AmAWDes.xml" />
+	<Model Name="XE-"			XMLFile="AmAWDes.xml" />
+	<Model Name="XK-"			XMLFile="AmAWDes.xml" />
+	<Model Name="AW-"			XMLFile="AmAWDes.xml" />
+	<Model Name="AWEP-"			XMLFile="AmAWDes.xml" />
+	<Model Name="UD-"			XMLFile="AmPhaetonDes.xml" />
+	<Model Name="TW-"			XMLFile="AmPENTUMDes.xml" />
+	<Model Name="GongZheng"		XMLFile="AmGongZhengDes.xml" />
+	<Model Name="GZ-"			XMLFile="AmGongZhengDes.xml" />
+	<Model Name="ThunderJet"	XMLFile="AmThunderJetDes.xml" />
+	<Model Name="ZY-"			XMLFile="AmZhongYeDes.xml" />
+	<Model Name="FLYJET"		XMLFile="AmShinyColorDes.xml" />
+	<Model Name="ShinyColor"		XMLFile="AmShinyColorDes.xml" />
+	<Model Name="CJ-"			XMLFile="AmCrystalJetDes.xml"/>
+	<Model Name="Cj-"			XMLFile="AmCrystalJetDes2.xml"/>
+	<Model Name="DS-"			XMLFile="AmDesignDes.xml"/>
+	<Model Name="Docan"			XMLFile="AmDocanDes.xml"/>
+	<Model Name="Indask"			XMLFile="AmIndaskDes.xml"/>
+	<Model Name="WZ-"			XMLFile="AmWanZhenDes.xml"/>
+	<Model Name="UVPrinter"		XMLFile="AmUVPrinterDes.xml"/>
+	<Model Name="LY_"			XMLFile="AmLiYuDes.xml"/>
+	<Model Name="KinColor"		XMLFile="AmSavenDes.xml"/>
+	<Model Name="Mercury"		XMLFile="AmSidMercuryDes.xml"/>
+	<Model Name="SID Triton Series"			XMLFile="AmPhaetonDes.xml" />
+	<Model Name="SID APOLLO"		XMLFile="AmPhaetonDes.xml"/>
+	<Model Name="SID Titan GS"		XMLFile="AmSidMercuryDes.xml"/>
+	<Model Name="SID "			XMLFile="AmSidSignsDes.xml"/>
+	<Model Name="PRINTTYPE"		XMLFile="AmRIPControlDes.xml" Comment="SkyColor"/>
+	<Model Name="FEDAR-"		XMLFile="AmFEDARDes.xml"/>
+	<Model Name="STORMJET-"		XMLFile="AmSkyColorDes.xml"/>
+	<Model Name="SKYCOLOR-"		XMLFile="AmSkyColorDes.xml"/>
+	<Model Name="CLOUDJET-"		XMLFile="AmSkyColorDes.xml"/>
+	<Model Name="SUNIKA-"		XMLFile="AmSkyColorDes.xml"/>
+	<Model Name="GongZheng "	XMLFile="AmGongZhengDes.xml" />
+	<Model Name="MJ-"			XMLFile="AmMeiJetDes.xml"/>
+	<Model Name="Taimes-"		XMLFile="AmTaimesDes.xml"/>
+	<Model Name="Inwear-"		XMLFile="AmInwearDes2.xml"/>
+	<Model Name="MC-"			XMLFile="AmMicolorDes2.xml"/>
+	<Model Name="Blueprint"		XMLFile="AmBlueprintDes.xml"/>
+	<Model Name="BJ-"			XMLFile="AmBemaJetDes.xml"/>
+	<Model Name="Scorpion"		XMLFile="AmScorpionDes.xml"/>
+	<Model Name="AG-"			XMLFile="AmArgusDes.xml"/>
+	<Model Name="Tessuti"		XMLFile="AmSGLDes.xml"/>
+	<Model Name="SC-"			XMLFile="AmSpecialColorDes.xml"/>
+	<Model Name="ALPHAJET"		XMLFile="AmSpecialColorDes.xml"/>
+	<Model Name="HighJet"		XMLFile="AmHighJetDes.xml"/>
+	<Model Name="Gethray"		XMLFile="AmGethrayDes.xml"/>
+	<Model Name="Britomatics Kingfisher BHYX"	XMLFile="AmBritomaticsBHYXDes.xml"/>
+	<Model Name="Britomatics"	XMLFile="AmBritomaticsDes.xml"/>
+	<Model Name="HL-"			XMLFile="AmXuLiDes.xml"/>
+	<Model Name="FTEX"			XMLFile="AmFTEXDes.xml"/>
+	<Model Name="NC-"			XMLFile="AmNewCubicDes.xml"/>
+	<Model Name="FORNI"			XMLFile="AmFORNIDes.xml"/>
+	<Model Name="Sprinter"		XMLFile="AmSprinterDes.xml"/>
+	<Model Name="Print"			XMLFile="AmPrintDes.xml"/>
+	<Model Name="HM "			XMLFile="AmHumanDes.xml"/>
+	<Model Name="ESS" XMLFile="AmESSDes.xml"/>
+	<Model Name="ULTRA"			XMLFile="AmWitColorDes.xml"/>
+	<Model Name="GCC"			XMLFile="AmGCCDes.xml"/>
+	<Model Name="ColorJet Acura"	XMLFile="AmColorJetNewDes.xml"/>
+	<Model Name="ColorJet"		XMLFile="AmColorJetDes.xml"/>
+	<Model Name="Saturn"		XMLFile="AmSaturnDes.xml"/>
+	<Model Name="TJ-"			XMLFile="AmTopjetDes.xml"/>
+	<Model Name="PJ-"			XMLFile="AmPhotoJetDes.xml"/>
+	<Model Name="FH-"			XMLFile="AmFH-UnionDes.xml"/>
+	<Model Name="Apollo"		XMLFile="AmApolloDes.xml"/>
+	<Model Name="MARS"			XMLFile="AmMARSDes.xml"/>
+	<Model Name="NANOY"			XMLFile="AmNANOYDes.xml" comment="Gethray"/>
+	<Model Name="Yorkdeal"		XMLFile="AmYorkdealDes.xml" comment=""/>
+	<Model Name="REVOTECH"		XMLFile="AmREVOTECHDes.xml" comment="Inwear"/>
+	<Model Name="TEK-"			XMLFile="AmTektronDes.xml" comment=""/>
+	<Model Name="BL-"			XMLFile="AmBroadLinkDes.xml" comment=""/>
+	<Model Name="YT-"			XMLFile="AmYuTaiDes.xml" comment=""/>
+	<Model Name="Forni"		XMLFile="AmForniDes2.xml"/>
+	<Model Name="TB-"			XMLFile="AmTiboDes.xml"/>
+	<Model Name="BigColor"		XMLFile="AmBigColorDes.xml"/>
+	<Model Name="NR-"			XMLFile="AmNavratDes.xml"/>
+	<Model Name="MyJet"			XMLFile="AmMyJetDes.xml"/>
+	<Model Name="ZIER"			XMLFile="AmZIERDes.xml"/>
+	<Model Name="BJC-"			XMLFile="AmBriteJetCeramicDes.xml"/>
+	<Model Name="Lynx"			XMLFile="AmDigitalVisioDes.xml"/>	
+	<Model Name="BYHX"			XMLFile="AmBYHXDes.xml"/>	
+	<Model Name="ZT-"			XMLFile="AmBCPRINTERDes.xml"/>	
+	<Model Name="LG-"			XMLFile="AmLongierDes.xml"/>	
+	<Model Name="Yetai"			XMLFile="AmYetaiDes.xml" comment=""/>
+	<Model Name="STS"			XMLFile="AmSTSDes.xml" comment=""/>
+	<Model Name="Luxy"			XMLFile="AmMicroFluidicDes.xml" comment=""/>
+	<Model Name="A-Starjet"		XMLFile="AmAStarJetDes2.xml" comment=""/>
+	<Model Name="FreeCode"		XMLFile="AmFreeCodeDes.xml" comment=""/>
+	<Model Name="Pixel Jet Konica 3304L-KM512-4C" 	XMLFile="AmPixelJetDes3.xml"/>
+	<Model Name="Pixel Jet Konica 3304H-KM512-4C" 	XMLFile="AmPixelJetDes3.xml"/>
+	<Model Name="Pixel Jet Konica 3304L-KM1024" 	XMLFile="AmPixelJetDes2.xml"/>
+	<Model Name="Pixel Jet Konica 3304H-KM1024" 	XMLFile="AmPixelJetDes2.xml"/>
+	<Model Name="Storm"			XMLFile="AmSinoColorDes.xml"/>
+	<Model Name="SignJet"		XMLFile="AmSinoColorDes.xml"/>
+	<Model Name="DreamJet"		XMLFile="AmSinoColorDes.xml"/>
+	<Model Name="ADD"			XMLFile="AmAddTopDes.xml"/>
+	<Model Name="AShow"			XMLFile="AmAShowDes.xml"/>
+	<Model Name="HZ-"			XMLFile="AmPolygonDes.xml"/>
+	<Model Name="ESD-"			XMLFile="AmESENDORADes.xml"/>
+	<Model Name="TC-"			XMLFile="AmTestCeramicDes.xml"/>
+	<Model Name="DYSS-"			XMLFile="AmDYSSDes.xml"/>
+	<Model Name="GM-"			XMLFile="AmDYSSDes.xml"/>
+	<Model Name="EDAHIGHT"		XMLFile="AmEDAHIGHTDes.xml"/>
+	<Model Name="YF-"			XMLFile="AmYiFangDes.xml"/>
+	<Model Name="PT-"			XMLFile="AmPinTuDes.xml"/>
+	<Model Name="HT-"			XMLFile="AmHelitinDes.xml"/>
+	<Model Name="MCC-"			XMLFile="AmMaxcanDes.xml"/>
+	<Model Name="JETWIN"		XMLFile="AmSunwinDes.xml"/>
+	<Model Name="Textalk"		XMLFile="AmTextalkDes.xml"/>
+	<Model Name="Pixel Jet KM512i JUMBO" 	XMLFile="AmPixelJetDes2.xml"/>
+	<Model Name="Pixel Jet Konica" 	XMLFile="AmPixelJetKonicaDes.xml"/>
+	<Model Name="Pixel Jet UV Mini" 	XMLFile="AmPixelJetUVMiniDes.xml"/>
+	<Model Name="Pixel Jet UV Flatbed" 	XMLFile="AmPixelJetFlatbedDes.xml"/>
+	<Model Name="Pixel Jet UV" 	XMLFile="AmPixelJetUVDes.xml"/>
+	<Model Name="Pixel Jet Eco" 		XMLFile="AmPixelJetEcoDes.xml"/>
+	<Model Name="Pixel Jet SG" 			XMLFile="AmPixelJetSGDes.xml"/>
+	<Model Name="Pixel Jet"		XMLFile="AmPixelJetDes.xml"/>
+	<Model Name="GlassJet"		XMLFile="AmDIPSDes.xml"/>
+	<Model Name="EastSign"		XMLFile="AmEastSignDes.xml"/>
+	<Model Name="FirstLFP"		XMLFile="AmDIPDes.xml"/>
+	<Model Name="TL-"			XMLFile="AmTianLongDes.xml"/>
+	<Model Name="Spectrum"		XMLFile="AmZetekDes.xml"/>
+	<Model Name="HK-"			XMLFile="AmHongKunDes.xml"/>
+	<Model Name="LFP-"			XMLFile="AmLFPDes.xml" comment="inkwin"/>
+	<Model Name="Ejet"			XMLFile="AmEjetDes.xml"/>
+	<Model Name="Oric"			XMLFile="AmOricDes.xml"/>
+	<Model Name="CaiYun"		XMLFile="AmCaiYunDes.xml"/>
+	<Model Name="ST-"			XMLFile="AmSitongDes.xml"/>
+	<Model Name="HYL"			XMLFile="AmYongLiDes.xml"/>
+	<Model Name="AZONColor"		XMLFile="AmAZONColorDes.xml"/>	
+	<Model Name="WayPrint-"		XMLFile="AmWayColorDes.xml" />
+	<Model Name="Nocai"			XMLFile="AmNocaiDes.xml"/>
+	<Model Name="BigPrinter"	XMLFile="AmBigPrinterDes.xml"/>
+	<Model Name="InkJet"		XMLFile="AmInkJetPrinterDes.xml"/>
+	<Model Name="KINGT"			XMLFile="AmKINGTDes.xml"/>
+	<Model Name="Keditec"		XMLFile="AmSpecialColorDes.xml"/>
+	<Model Name="CT-"			XMLFile="AmColorTopDes.xml"/>
+	<Model Name="FT-"			XMLFile="AmFlyingTigerDes.xml"/>
+	<Model Name="Icon"			XMLFile="AmSagaPrintDes.xml"/>
+	<Model Name="OMJ-"			XMLFile="AmOMAGICJETDes.xml"/>
+	<Model Name="CM-"			XMLFile="AmCubeMarkDes.xml"/>
+	<Model Name="ApexJet"		XMLFile="AmApexJetDes.xml"/>
+	<Model Name="MPAD"			XMLFile="AmMPADDes.xml"/>
+	<Model Name="YD"			XMLFile="AmYueDaDes.xml"/>
+	<Model Name="MIMKE"			XMLFile="AmMimkeDes.xml"/>
+	<Model Name="AUDLEY"		XMLFile="AmAudleyDes.xml"/>
+	<Model Name="Aojet"			XMLFile="AmAojetDes.xml"/>
+	<Model Name="Fabic"			XMLFile="AmFabicDes.xml" Comment="Gethray" />
+	<Model Name="HX-"			XMLFile="AmHeXuanDes.xml"/>
+	<Model Name="LongKe"		XMLFile="AmLongKeDes.xml"/>	
+	<Model Name="Bellatrix EP1802I"		XMLFile="AmAWDes.xml" />
+	<Model Name="Bellatrix X7560"		XMLFile="AmBellatrixDes.xml"/>
+	<Model Name="Bellatrix X8560"		XMLFile="AmBellatrixDes.xml"/>
+	<Model Name="Bellatrix VX"			XMLFile="AmBellatrixDes.xml"/>
+	<Model Name="Bellatrix XM"			XMLFile="AmBellatrixDes2.xml"/>
+	<Model Name="Bellatrix ZX"			XMLFile="AmBellatrixDes2.xml"/>
+	<Model Name="Bellatrix HZ"			XMLFile="AmBellatrixDes2.xml"/>
+	<Model Name="Bellatrix FZ"			XMLFile="AmBellatrixDes2.xml"/>
+	<Model Name="Bellatrix FUV"			XMLFile="AmBellatrixDes2.xml"/>
+	<Model Name="Bellatrix TX"			XMLFile="AmBellatrixDes2.xml"/>
+	<Model Name="XHS-"			XMLFile="AmXinHaiShengDes.xml"/>	
+	<Model Name="JM-"			XMLFile="AmJingMeiDes.xml"/>
+	<Model Name="XL-"		XMLFile="AmXuliDes.xml"/>
+	<Model Name="PL-"		XMLFile="AmPolarDes.xml"/>	
+	<Model Name="FastCOLOUR"		XMLFile="AmAmCoZaDes.xml"/>	
+	<Model Name="XM-"			XMLFile="AmXuanMeiDes.xml" />
+	<Model Name="Delone-"			XMLFile="AmDeloneDes.xml" />
+	<Model Name="DIGIPRINTER-"			XMLFile="AmDIGIPRINTERDes.xml" />
+	<Model Name="JADE-"			XMLFile="AmJADEDes.xml" />
+	<Model Name="PreJet"			XMLFile="AmSinoColorDes.xml"/>
+	<Model Name="HR-"			XMLFile="AmHongRunDes.xml"/>
+	<Model Name="HFT-"			XMLFile="AmHuiFanTongDes.xml"/>
+	<Model Name="ALPHA"		XMLFile="AmSpecialColorDes.xml"/>
+	<Model Name="GRANDO"		XMLFile="AmSpecialColorDes.xml"/>
+	<Model Name="ROC-"		XMLFile="AmROCDes.xml"/>
+	<Model Name="KingJet"		XMLFile="AmKingJetDes.xml"/>
+	<Model Name="Shenou"		XMLFile="AmShenouDes.xml"/>
+	<Model Name="Glitter"		XMLFile="AmGlitterDes.xml"/>
+	<Model Name="XLF"			XMLFile="AmNewCubicDes.xml"/>
+	<Model Name="Phaeton-"			XMLFile="AmPhaetonDes.xml" />
+	<Model Name="Galaxy-"			XMLFile="AmPhaetonDes.xml" />
+	<Model Name="Artis-"			XMLFile="AmArtisJetDes.xml" />    
+	<Model Name="HandTop"			XMLFile="AmHandTopDes.xml" />    
+	<Model Name="DYSC-"			XMLFile="AmDYSCDes.xml" />
+	<Model Name="Bass Bowei"			XMLFile="AmBassBoweiDes.xml" />
+	<Model Name="Rodin-"			XMLFile="AmHiJetDes.xml" />
+	<Model Name="FANGDA TEX-"			XMLFile="AmFANGDATEXDes.xml" />
+	<Model Name="FC-"			XMLFile="AmZICHUANGDes.xml" />
+	<Model Name="WT-"			XMLFile="AmBOSSRONDes.xml" />
+	<Model Name="AFRD-"			XMLFile="AmAFRDDes.xml" />
+	<Model Name="SaiTu-"			XMLFile="AmSaiTuDes.xml" />
+	<Model Name="EDS-"			XMLFile="AmEDSONDes.xml" />
+	<Model Name="MYCOLOR-"			XMLFile="AmMYCOLORDes.xml" />
+	<Model Name="FD-"			XMLFile="AmFeiDieDes.xml" />
+	<Model Name="SYZ-"			XMLFile="AmYOUZEDes.xml" />
+	<Model Name="ANS-"			XMLFile="AmANSDes.xml" />
+	<Model Name="X-Roland"			XMLFile="AmYongLiDes.xml" />
+	<Model Name="Yinghe"			XMLFile="AmYongLiDes.xml" />
+	<Model Name="INCORTEX"			XMLFile="AmCosineDes.xml" />
+	<Model Name="SP-"			XMLFile="AmSinoPRINTDes.xml" />
+	<Model Name="DACEN"			XMLFile="AmDACENDes.xml" />
+	<Model Name="RT-"			XMLFile="AmRuituoDes.xml" />
+	<Model Name="CF-"			XMLFile="AmCFDes.xml" />
+	<Model Name="TCJX"			XMLFile="AmTCJXDes.xml" />
+	<Model Name="Trieka"		XMLFile="AmTriekaDes.xml"/>
+	<Model Name="Ecotech-"		XMLFile="AmEcotechDes.xml"/>
+	<Model Name="Atom-"			XMLFile="AmAtomDes.xml" />
+	<Model Name="CBF"		XMLFile="AmCBFDes.xml"/>
+	<Model Name="MACAN-"		XMLFile="AmMACANDes.xml"/>
+	<Model Name="PLAMAC"			XMLFile="AmPLAMACDes.xml" />  
+	<Model Name="KNFUN"			XMLFile="AmKNFUNDes.xml" /> 
+	<Model Name="Dlican"			XMLFile="AmDlicanDes.xml" />  
+	<Model Name="RICOH-"			XMLFile="AmRICOHDes.xml" />
+	<Model Name="FASTPRINT-"			XMLFile="AmFASTPRINTDes.xml" />
+	<Model Name="KF-"			XMLFile="AmKFDes.xml" />
+	<Model Name="Shark"			XMLFile="AmStratojetUSADes.xml" />
+	<Model Name="EEC"			XMLFile="AmFDEECDes.xml" />
+	<Model Name="HONGYING"			XMLFile="AmHONGYINGDes.xml" />
+	<Model Name="QSS"			XMLFile="AmQSSGREENDes.xml" />
+	<Model Name="Xaar-"			XMLFile="AmXaar1201Des.xml" />
+	<Model Name="VANYE-"			XMLFile="AmVANYEDes.xml" />
+	<Model Name="FP-"			XMLFile="AmFLYPLUSDes.xml" />
+	<Model Name="Techjet"		XMLFile="AmTechjetDes.xml" />
+	<Model Name="FENGDA"		XMLFile="AmFENGDADes.xml" />
+	<Model Name="MGW"		XMLFile="AmMGWDes.xml" comment="Sprinter"/>
+	<Model Name="EGERI"		XMLFile="AmEGERIDes.xml"/>
+	<Model Name="TechJET Pro"	XMLFile="AmGCCDes.xml"/>
+	<Model Name="MU-"		XMLFile="AmMUDes.xml"/>
+	<Model Name="Sunthinks"		XMLFile="AmSunthinksDes.xml"/>
+	<Model Name="CoStraight"		XMLFile="AmCoStraightDes.xml" />
+	<Model Name="VenusLF"		XMLFile="AmVenusLFDes.xml" />
+	<Model Name="JSW"		XMLFile="AmJSWDes.xml" />
+	<Model Name="Loly-"		XMLFile="AmTaimesDes.xml"/>
+	<Model Name="SMTJET-"		XMLFile="AmSMTJETDes.xml"/>
+	<Model Name="BC-"		XMLFile="AmBCPRINTERDes.xml"/>
+	<Model Name="INKSEA-"		XMLFile="AmINKSEADes.xml"/>		
+	<Model Name="BH-"		XMLFile="AmBihongDes.xml"/>		
+	<Model Name="ALLWIN-"		XMLFile="AmAllWinDes.xml" />
+	<Model Name="LINK-"		XMLFile="AmLINKDes.xml"/>
+	<Model Name="AC-COLOR"		XMLFile="AmLINKDes.xml"/>
+	<Model Name="PS-"		XMLFile="AmPSDes.xml"/>
+	<Model Name="Eyecolor-"		XMLFile="AmEyecolorDes.xml"/>
+	<Model Name="ZKCK-"		XMLFile="AmZKCKDes.xml"/>
+	<Model Name="SLJET-"		XMLFile="AmSLJETDes.xml"/>
+	<Model Name="FJF-"		XMLFile="AmThunderJetDes.xml" />
+	<Model Name="YGF-"			XMLFile="AmYAGENGFUDes.xml" />
+	<Model Name="GZBK-"			XMLFile="AmGZBKDes.xml" />
+	<Model Name="YS-"			XMLFile="AmYISHANDes.xml" />
+	<Model Name="Ecotech"		XMLFile="AmNewCubicDes.xml"/>
+	<Model Name="CaiYi"			XMLFile="AmCaiYiDes.xml" />
+	<Model Name="1800P"			XMLFile="AmHomerTechDes.xml" />    
+	<Model Name="AUMEX-"			XMLFile="AmAUMEXDes.xml" />
+	<Model Name="RIP-"			XMLFile="AmRIPCOLORDes.xml" />
+	<Model Name="YC"			XMLFile="AmYingcaiDes.xml" />
+	<Model Name="Honytek-"			XMLFile="AmHonytekDes.xml" />
+	<Model Name="OSN-"			XMLFile="AmOSNUODes.xml" />
+	<Model Name="HY-"			XMLFile="AmHONQDes.xml" />
+	<Model Name="Fourstar-"			XMLFile="AmFourstarDes.xml" />
+	<Model Name="ShenFa-"			XMLFile="AmSHENFADes.xml" />
+	<Model Name="Omajic-"			XMLFile="AmRIPPRINTDes.xml" />
+	<Model Name="Aily-"			XMLFile="AmRIPPRINTDes.xml" />
+	<Model Name="Rikang-"			XMLFile="AmRIPPRINTDes.xml" />
+	<Model Name="DING-"			XMLFile="AmDINGDes.xml" />
+	<Model Name="Ink-Logic-"			XMLFile="AmYuanMaoDes.xml" />
+	<Model Name="FlatPannel-"			XMLFile="AmFlatPannelDes.xml" />
+	<Model Name="Newin-"			XMLFile="AmRIPPRINTDes.xml" />
+	<Model Name="PC-"			XMLFile="AmRIPPRINTDes.xml" />
+	<Model Name="SmartPrinter"			XMLFile="AmSmartPrinterDes.xml" />
+	<Model Name="XSJ-"			XMLFile="AmXSJDes.xml" />
+	<Model Name="Colorido-"			XMLFile="AmColoridoDes.xml" />	
+	<Model Name="ERICK-"			XMLFile="AmERICKDes.xml" />
+	<Model Name="SZ-UV"			XMLFile="AmGZBKDes.xml" />
+	<Model Name="SAMPRINT"			XMLFile="AmSAMPRINTDes.xml" />
+	<Model Name="HCWY-"			XMLFile="AmHCWYDes.xml" />
+	<Model Name="DMP"			XMLFile="AmDMPSDes.xml" />
+	<Model Name="MU4-"			XMLFile="AmMU4Des.xml" />
+	<Model Name="HF-"			XMLFile="AmHFDes.xml" />
+	<Model Name="Yuliang"			XMLFile="AmYuliangDes.xml" />
+	<Model Name="DWX-"			XMLFile="AmDawenxiDes.xml" />
+	<Model Name="TJet-"			XMLFile="AmTecjetDes.xml" />
+	<Model Name="HongHua"		XMLFile="AmHongHuaDes.xml" />
+	<Model Name="F-PRINT"			XMLFile="AmFPRINTDes.xml" />
+	<Model Name="DPS Test2"			XMLFile="AmGongZhengDes.xml" /> 
+	<Model Name="DPS IQdemy"		XMLFile="AmGongZhengDes.xml" /> 
+	<Model Name="Avery"			XMLFile="AmAveryZhongYeDes.xml" />	
+	<Model Name="W-JET"		XMLFile="AmSunwinDes.xml"/>
+	<Model Name="KWL-"			XMLFile="AmYAGENGFUDes.xml" />
+	<Model Name="SANF-"			XMLFile="AmSANFDes.xml" />
+	<Model Name="SS-"			XMLFile="AmSeem-SeeDes.xml" />
+	<Model Name="OnePass"			XMLFile="AmOnePassDes.xml" />
+	<Model Name="XITU-"			XMLFile="AmXITUDes.xml" />	
+	<Model Name="WST-"			XMLFile="AmWSTDes.xml" />	
+	<Model Name="WISE-"			XMLFile="AmWISEDes.xml" />
+	<Model Name="SUNUSER-"			XMLFile="AmSUNUSERDes.xml" />
+	<Model Name="KC-"			XMLFile="AmKucaiDes.xml" />
+	<Model Name="oneline-"			XMLFile="AmonelineDes.xml" />
+	<Model Name="BAITU"			XMLFile="AmBAITUDes.xml" />
+	<Model Name="PX-"			XMLFile="AmPrintXDes.xml" />
+	<Model Name="XYF-"			XMLFile="AmDr.inkDes.xml" />
+	<Model Name="SinoColor"			XMLFile="AmSinoColorDes.xml"/>
+	<Model Name="MT-"			XMLFile="AmMTDes.xml"/>
+	<Model Name="OJ-"			XMLFile="AmDGIDes.xml"/>
+	<Model Name="SD-"			XMLFile="AmSpecialColorDes.xml"/>
+	<Model Name="FunSun-"			XMLFile="AmFunSunDes.xml" />
+  <Model Name="CSCAM"			XMLFile="AmCSCAMDes.xml" />
+  <Model Name="TXC"			XMLFile="AmTXCTECHDes.xml" />
+  <Model Name="ARTJET"			XMLFile="AmGAINDes.xml" />
+  <Model Name="GLT"			XMLFile="AmGreatDes.xml" />
+  <Model Name="MeiTu"			XMLFile="AmMeiTuDes.xml" />
+  <Model Name="JUCAILI"			XMLFile="AmJUCAILIDes.xml" />
+  <Model Name="WuTe-"			XMLFile="AmWuTeDes.xml" />
+  <Model Name="DC"			XMLFile="AmDongChenDes.xml" />
+  <Model Name="Jikji"			XMLFile="AmJikjiDes.xml" />
+  <Model Name="ORIC_"			XMLFile="AmSpecialColor_OricDes.xml"/>
+  <Model Name="Gading Murni"			XMLFile="AmGading MurniDes.xml"/>
+  <Model Name="LJ"			XMLFile="AmSUOJETDes.xml"/>
+  <Model Name="POLYTECH"			XMLFile="AmPOLYTECHDes.xml"/>
+	<Model Name="Roland IU-"		XMLFile="AmRICOHDes.xml" />
+	<Model Name="Avanti"		XMLFile="AmAvantiDes.xml" />
+	<Model Name="SANJIE"		XMLFile="AmSANJIEDes.xml" />
+	<Model Name="YP-"		XMLFile="AmYPRINTERDes.xml" />
+	<Model Name="XXPYFD-"		XMLFile="AmXXPYFDDes.xml" />
+	<Model Name="DX5789"		XMLFile="AmUVbetterDes.xml" />
+	<Model Name="Royal"			XMLFile="AmRoyalDes.xml" />  
+	<Model Name="IV_"			XMLFile="AmINNOVATIONDes.xml" /> 
+  	<Model Name="PRT-"			XMLFile="AmPrintingDes.xml" />
+	<Model Name="PrismaJet"	XMLFile="AmThunderJetDes.xml" />
+  <Model Name="ZX"	XMLFile="AmZXXDDes.xml" />
+  <Model Name="Mo"	XMLFile="AmBLUEPRINTIDDes.xml" />
+  <Model Name="SUBLITECH"	XMLFile="AmSUBLITECHDes.xml" />
+  <Model Name="CG-"	XMLFile="AmCALDRONDes.xml" />
+  <Model Name="JiHui"			XMLFile="AmYongLiDes.xml"/>
+  <Model Name="ImprimiPrinter"			XMLFile="AmYongLiDes.xml"/>
+  <Model Name="MANPROTEK"			XMLFile="AmMANPROTEKDes.xml"/>
+	<Model Name="RoyalJet"		XMLFile="AmRoyalJetDes.xml" />
+	<Model Name="Locor"		XMLFile="AmLocorDes.xml" />
+	<Model Name="Cromax"		XMLFile="AmAmpla2Des.xml" />
+	<Model Name="TD-"		XMLFile="AmTDPRINTERDes.xml" />
+	<Model Name="WallPen-"		XMLFile="AmWallPenDes.xml" />
+	<Model Name="HKprinter-"		XMLFile="AmHKprinterDes.xml" /> 
+	<Model Name="SENDOA-"		XMLFile="AmSENDOADes.xml" />
+	<Model Name="F-color"		XMLFile="AmF-colorDes.xml" />	
+	<Model Name="EU-"			XMLFile="AmFeiYeungDes.xml"/>
+  <Model Name="Penghui"		XMLFile="AmPenghuiDes.xml"/>
+  <Model Name="PD"		XMLFile="AmPrintDotDes.xml"/>		
+  <Model Name="AG"			XMLFile="AmCKDes.xml"/>
+  <Model Name="THJ"			XMLFile="AmTHJDes.xml"/>
+  <Model Name="RS-"			XMLFile="AmMehtaRasterJetDes.xml"/>
+  <Model Name="YITE"			XMLFile="AmYITEDes.xml"/>
+  <Model Name="LETOP-"			XMLFile="AmLETOPDes.xml"/>
+	<Model Name="Elite FB"		XMLFile="AmAmpla2Des.xml" />
+	<Model Name="Hercules"			XMLFile="AmDGIDes.xml"/>
+	<Model Name="Impra-"		XMLFile="AmImpraDes.xml" />
+  <Model Name="ChengHe"		XMLFile="AmChengHeDes.xml" />
+  <Model Name="IJP-"		XMLFile="AmKanishiDes.xml" />
+  <Model Name="DMAC"		XMLFile="AmDMACDes.xml" />
+  <Model Name="FLY-TOO-"		XMLFile="AmFLYTOODes.xml" />
+  <Model Name="Muchcolours-"		XMLFile="AmMuchcoloursDes.xml" />
+  <Model Name="TRUE-DPI-"		XMLFile="AmTRUEDPIDes.xml" />
+  <Model Name="MP-"		XMLFile="AmMYPRINTERDes.xml" />
+  <Model Name="HC-"		XMLFile="AmHCDes.xml" />
+	<Model Name="KEUNDO-"			XMLFile="AmSpecialColorDes.xml" />
+ <Model Name="MEGA-"		XMLFile="AmMEGAJETDes.xml" />
+	<Model Name="YSU"		XMLFile="AmYSUDes.xml" Comment="Yaselan" />
+  <Model Name="YH-"		XMLFile="AmYinhanDes.xml" />
+  <Model Name="ICON-"		XMLFile="AmICONDes.xml" />
+  <Model Name="SDG-"		XMLFile="AmSDGDes.xml" />
+  <Model Name="HS"		XMLFile="AmHSDes.xml" />
+  <Model Name="GC-"		XMLFile="AmGUANGCHENDes.xml" />
+ <Model Name="3D PRINTING"		XMLFile="Am3DPRINTINGDes.xml" />
+  <Model Name="KuChi-"		XMLFile="AmKUCHIDes.xml" />
+  <Model Name="KMJ-"		XMLFile="AmKaiMeiJieDes.xml" />
+  <Model Name="ROCC-"		XMLFile="AmROCJECTSDes.xml" />
+  <Model Name="ROCF-"		XMLFile="AmROCJECTSDes.xml" />
+  <Model Name="ROCB-"		XMLFile="AmROCJECTSDes.xml" />
+  <Model Name="Kalers-"		XMLFile="AmKalersDes.xml" />
+  <Model Name="SH-"		XMLFile="AmShanghuDes.xml" />
+  <Model Name="MiniUV-"		XMLFile="AmMiniUVPrinterDes.xml" />
+  <Model Name="JESI"		XMLFile="AmJESIDes.xml" />
+  <Model Name="BL_"		XMLFile="AmBL-YWDDes.xml" />
+  <Model Name="KW-"		XMLFile="AmKINWAHDes.xml" />
+  
+</Definition>

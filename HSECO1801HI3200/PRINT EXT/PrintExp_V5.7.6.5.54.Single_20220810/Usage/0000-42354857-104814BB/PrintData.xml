@@ -1,0 +1,27 @@
+<PrintStatistic>
+<StatisticData>
+<DataItem>
+<TaskName>米子框+四色色块_720X1200.prn</TaskName>
+<StartPrintTime>2022-08-05 15:22:47</StartPrintTime>
+<EndPrintTime>2022-08-05 15:23:56</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>2</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.40</PrintLength>
+<PrintArea Unit="m x m">0.08</PrintArea>
+<TimeCost Unit="s">69.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LK" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="7">0.000000 0.000000</InkCost>
+<InkCost inkName="LY" inkID="8">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+</StatisticData>
+</PrintStatistic>

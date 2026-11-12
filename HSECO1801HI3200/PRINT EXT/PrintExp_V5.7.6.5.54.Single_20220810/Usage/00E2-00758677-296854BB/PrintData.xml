@@ -1,0 +1,400 @@
+<PrintStatistic>
+<StatisticData>
+<DataItem>
+<TaskName>汉森A3XP600.prn</TaskName>
+<StartPrintTime>2023-04-28 10:01:13</StartPrintTime>
+<EndPrintTime>2023-04-28 10:01:13</EndPrintTime>
+<PrintStatus>10</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">0.00</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 10:38:57</StartPrintTime>
+<EndPrintTime>2023-04-28 10:39:06</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.17</PrintWidth>
+<PrintLength Unit="m">0.03</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 10:53:21</StartPrintTime>
+<EndPrintTime>2023-04-28 10:53:31</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.17</PrintWidth>
+<PrintLength Unit="m">0.03</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 10:57:33</StartPrintTime>
+<EndPrintTime>2023-04-28 10:57:43</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.17</PrintWidth>
+<PrintLength Unit="m">0.03</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>汉森A3XP600.prn</TaskName>
+<StartPrintTime>2023-04-28 10:58:50</StartPrintTime>
+<EndPrintTime>2023-04-28 11:00:38</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">0.22</PrintLength>
+<PrintArea Unit="m x m">0.06</PrintArea>
+<TimeCost Unit="s">108.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 13:09:25</StartPrintTime>
+<EndPrintTime>2023-04-28 13:09:35</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.17</PrintWidth>
+<PrintLength Unit="m">0.03</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 13:10:10</StartPrintTime>
+<EndPrintTime>2023-04-28 13:10:21</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.05</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 13:11:56</StartPrintTime>
+<EndPrintTime>2023-04-28 13:12:06</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.02</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 13:12:32</StartPrintTime>
+<EndPrintTime>2023-04-28 13:12:44</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.21</PrintWidth>
+<PrintLength Unit="m">0.03</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 13:13:01</StartPrintTime>
+<EndPrintTime>2023-04-28 13:13:11</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.21</PrintWidth>
+<PrintLength Unit="m">0.03</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<StartPrintTime>2023-04-28 13:14:14</StartPrintTime>
+<EndPrintTime>2023-04-28 13:14:25</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.19</PrintWidth>
+<PrintLength Unit="m">0.02</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>汉森A3XP600.prn</TaskName>
+<StartPrintTime>2023-04-28 13:15:30</StartPrintTime>
+<EndPrintTime>2023-04-28 13:17:17</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">0.22</PrintLength>
+<PrintArea Unit="m x m">0.06</PrintArea>
+<TimeCost Unit="s">107.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>汉森A3XP600.prn</TaskName>
+<StartPrintTime>2023-04-28 13:18:36</StartPrintTime>
+<EndPrintTime>2023-04-28 13:24:50</EndPrintTime>
+<PrintStatus>2</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">1.12</PrintLength>
+<PrintArea Unit="m x m">0.29</PrintArea>
+<TimeCost Unit="s">374.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>汉森A3XP600.prn</TaskName>
+<StartPrintTime>2023-04-28 13:49:16</StartPrintTime>
+<EndPrintTime>2023-04-28 14:02:12</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">2.29</PrintLength>
+<PrintArea Unit="m x m">0.60</PrintArea>
+<TimeCost Unit="s">776.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>汉森A3XP600.prn</TaskName>
+<StartPrintTime>2023-04-28 14:32:04</StartPrintTime>
+<EndPrintTime>2023-04-28 14:57:13</EndPrintTime>
+<PrintStatus>2</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">0.81</PrintLength>
+<PrintArea Unit="m x m">0.21</PrintArea>
+<TimeCost Unit="s">1509.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>000.prn</TaskName>
+<StartPrintTime>2023-04-28 14:57:41</StartPrintTime>
+<EndPrintTime>2023-04-28 14:58:49</EndPrintTime>
+<PrintStatus>3</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">0.00</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">68.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>000.prn</TaskName>
+<StartPrintTime>2023-04-28 15:01:31</StartPrintTime>
+<EndPrintTime>2023-04-28 15:02:10</EndPrintTime>
+<PrintStatus>2</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">0.07</PrintLength>
+<PrintArea Unit="m x m">0.02</PrintArea>
+<TimeCost Unit="s">39.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>000.prn</TaskName>
+<StartPrintTime>2023-04-28 15:04:23</StartPrintTime>
+<EndPrintTime>2023-04-28 15:12:27</EndPrintTime>
+<PrintStatus>2</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.26</PrintWidth>
+<PrintLength Unit="m">1.47</PrintLength>
+<PrintArea Unit="m x m">0.38</PrintArea>
+<TimeCost Unit="s">484.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="-W-" inkID="7">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+</StatisticData>
+</PrintStatistic>

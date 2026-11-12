@@ -1,0 +1,45 @@
+Spectro_xy_version=1
+; Barbieri Job Description
+File_Format=BARBIERI
+Patches_X=SA_Patches_X
+Patches_Y=SA_Patches_Y
+Number_of_Patches=SA_Number_of_Patches
+Number_of_Pages=SA_Number_of_Pages
+Target_Size_X=SA_Target_Size_X
+Target_Size_Y=SA_Target_Size_Y
+Patch_Gap_X=SA_Patch_Gap_X
+Patch_Gap_Y=SA_Patch_Gap_Y
+SA_MeasureMode
+Illuminant=SA_Illuminant
+Observer=SA_Observer
+Density=SA_Density
+Save_Spectral=1
+Save_Lab=0
+Save_XYZ=1
+Save_Density=1
+Fast_Measuring_Mode=SA_Fast_Measuring_Mode
+Use_AutoPositioning=SA_Use_AutoPositioning
+Output_File_Name=SA_Output_File_Name
+;more data
+Run_Profiler=0
+Reference_File_Name=
+Profile_File_Name=
+Target_Image_Preview=
+Number_of_Measurements_per_Patch_y=1
+Distance_of_Measurements_per_Patch_y=5
+Number_of_Measurements_per_Patch_x=1
+Distance_of_Measurements_per_Patch_x=10
+Average_Method=1
+;AutoPositioning_Mode=0
+Calibration_Frequency=SA_Calibration_Frequency
+Measurement_Condition=SA_Measurement_Condition
+Measuring_Aperture=SA_Measuring_Aperture
+Slope_Factor=1.000
+;no spec
+;CF_Option=1
+;Pos1=809,1,62,1,62,65
+;Target_Header_Size=20
+;Demo_Mode=0
+;Display_Values=0
+;Spot_Measurement_Mode=0
+;Spot_Measurement=0
