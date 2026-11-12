@@ -1,0 +1,21 @@
+atools 112C el resto sale feo volaje k
+estocastico mejorado 2
+calidad minima 720*540
+gigantografia 720*540
+linearizacion
+c 90
+m 90
+n 80
+y 80
+
+perfil 2
+estocastico mejorado 2
+calidad maxima 720*2160
+Etiquetas 720*1440
+linearizacion
+c 60
+m 60
+n 65
+y 60
+
+probar 720*1080 solucionar problema de bandeo
